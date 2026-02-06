@@ -179,6 +179,7 @@ nav {
 
 .about-me__picture {
   width: 100%;
+  height: 100%;
 
   /* Improving my own picture */
   transform: scale(1.5);
@@ -223,6 +224,7 @@ nav {
 }
 .about-me__img {
   width: 100%;
+  height: 100%;
   animation: fade-in 1200ms 800ms backwards;
 }
 
